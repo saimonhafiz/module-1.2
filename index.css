@@ -1,0 +1,28 @@
+* {
+	text-align: center;
+}
+img {
+	width: 240px;
+	height: auto;
+}
+.thumbs {
+	font-size: 1vw;
+	background-color: slategrey;
+	color: wheat;
+	font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+	
+	margin: 15px;
+	padding: 5px;
+	border: 15px solid springgreen;
+	border-radius: 20px;
+	float: left;
+}
+p {
+	
+	width: 240px;
+	height: auto;
+}
+
+div {
+	width: 250px;
+}
